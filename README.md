@@ -14,3 +14,26 @@ Assumptions (max 3)
 1. TransactionId is globally unique from provider
 2. Webhook retries may happen (hence idempotency needed)
 3. Only one currency per transaction
+
+
+Database Schema (PostgreSQL)
+
+CREATE TABLE transactions (
+    id BIGSERIAL PRIMARY KEY,
+    ExternalId VARCHAR(255) NOT NULL,
+    Amount NUMERIC(18,2) NOT NULL,
+    Currency VARCHAR(10) NOT NULL,
+    DateCreated TIMESTAMP NOT NULL
+);
+
+CREATE TABLE DerivedTransaction (
+    id SERIAL PRIMARY KEY,
+    TransactionId BIGINT NOT NULL,
+    fee NUMERIC(18,2) NOT NULL,
+    NetAmount NUMERIC(18,2) NOT NULL,
+
+    CONSTRAINT fk_transaction
+        FOREIGN KEY (TransactionId)
+        REFERENCES TransactionId(id)
+        ON DELETE CASCADE
+);
