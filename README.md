@@ -10,3 +10,7 @@ immutable while allowing flexibility for derived data evolution.
 The implementation prioritizes simplicity, using ASP.NET Core with Entity Framework for persistence.
 The endpoint is synchronous and returns a success response for both new and duplicate transactions to maintain webhook reliability.
 
+Assumptions (max 3)
+1. TransactionId is globally unique from provider
+2. Webhook retries may happen (hence idempotency needed)
+3. Only one currency per transaction
