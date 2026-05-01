@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36811.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebHook.Assessment.Presentation", "WebHook.Assessment\WebHook.Assessment.Presentation.csproj", "{85B457F3-B71B-4B05-876F-D1965049890E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebHook.Assessment.Application", "WebHook.Assessment.Application\WebHook.Assessment.Application.csproj", "{675D35EC-1C50-48D9-81C7-0EA9082905AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebHook.Assessment.Domain", "WebHook.Assessment.Domain\WebHook.Assessment.Domain.csproj", "{889860A6-EDCD-40F3-BD1E-D98A20C3045C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebHook.Assessment.Persistence", "WebHook.Assessment.Persistence\WebHook.Assessment.Persistence.csproj", "{CD29CBD9-E50A-4487-A70C-B646772E21F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebHook.Assessment.Testing", "WebHook.Assessment.Testing\WebHook.Assessment.Testing.csproj", "{2B44C833-555D-4DA9-919C-B8DBA292A23B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85B457F3-B71B-4B05-876F-D1965049890E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85B457F3-B71B-4B05-876F-D1965049890E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85B457F3-B71B-4B05-876F-D1965049890E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85B457F3-B71B-4B05-876F-D1965049890E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{675D35EC-1C50-48D9-81C7-0EA9082905AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{675D35EC-1C50-48D9-81C7-0EA9082905AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{675D35EC-1C50-48D9-81C7-0EA9082905AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{675D35EC-1C50-48D9-81C7-0EA9082905AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{889860A6-EDCD-40F3-BD1E-D98A20C3045C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{889860A6-EDCD-40F3-BD1E-D98A20C3045C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{889860A6-EDCD-40F3-BD1E-D98A20C3045C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{889860A6-EDCD-40F3-BD1E-D98A20C3045C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD29CBD9-E50A-4487-A70C-B646772E21F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD29CBD9-E50A-4487-A70C-B646772E21F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD29CBD9-E50A-4487-A70C-B646772E21F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD29CBD9-E50A-4487-A70C-B646772E21F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B44C833-555D-4DA9-919C-B8DBA292A23B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B44C833-555D-4DA9-919C-B8DBA292A23B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B44C833-555D-4DA9-919C-B8DBA292A23B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B44C833-555D-4DA9-919C-B8DBA292A23B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3468BF04-A068-411C-998E-8A84545E8B78}
+	EndGlobalSection
+EndGlobal

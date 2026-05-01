@@ -1,0 +1,11 @@
+C:\WebHookTransaction\WebHook.Assessment\WebHook.Assessment.Testing\bin\Debug\net8.0\WebHook.Assessment.Testing.deps.json
+C:\WebHookTransaction\WebHook.Assessment\WebHook.Assessment.Testing\bin\Debug\net8.0\WebHook.Assessment.Testing.dll
+C:\WebHookTransaction\WebHook.Assessment\WebHook.Assessment.Testing\bin\Debug\net8.0\WebHook.Assessment.Testing.pdb
+C:\WebHookTransaction\WebHook.Assessment\WebHook.Assessment.Testing\obj\Debug\net8.0\WebHook.Assessment.Testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\WebHookTransaction\WebHook.Assessment\WebHook.Assessment.Testing\obj\Debug\net8.0\WebHook.Assessment.Testing.AssemblyInfoInputs.cache
+C:\WebHookTransaction\WebHook.Assessment\WebHook.Assessment.Testing\obj\Debug\net8.0\WebHook.Assessment.Testing.AssemblyInfo.cs
+C:\WebHookTransaction\WebHook.Assessment\WebHook.Assessment.Testing\obj\Debug\net8.0\WebHook.Assessment.Testing.csproj.CoreCompileInputs.cache
+C:\WebHookTransaction\WebHook.Assessment\WebHook.Assessment.Testing\obj\Debug\net8.0\WebHook.Assessment.Testing.dll
+C:\WebHookTransaction\WebHook.Assessment\WebHook.Assessment.Testing\obj\Debug\net8.0\refint\WebHook.Assessment.Testing.dll
+C:\WebHookTransaction\WebHook.Assessment\WebHook.Assessment.Testing\obj\Debug\net8.0\WebHook.Assessment.Testing.pdb
+C:\WebHookTransaction\WebHook.Assessment\WebHook.Assessment.Testing\obj\Debug\net8.0\ref\WebHook.Assessment.Testing.dll

@@ -1,0 +1,17 @@
+C:\WebHookTransaction\WebHook.Assessment\WebHook.Assessment.Application\bin\Debug\net8.0\WebHook.Assessment.Application.deps.json
+C:\WebHookTransaction\WebHook.Assessment\WebHook.Assessment.Application\bin\Debug\net8.0\WebHook.Assessment.Application.runtimeconfig.json
+C:\WebHookTransaction\WebHook.Assessment\WebHook.Assessment.Application\bin\Debug\net8.0\WebHook.Assessment.Application.dll
+C:\WebHookTransaction\WebHook.Assessment\WebHook.Assessment.Application\bin\Debug\net8.0\WebHook.Assessment.Application.pdb
+C:\WebHookTransaction\WebHook.Assessment\WebHook.Assessment.Application\bin\Debug\net8.0\WebHook.Assessment.Domain.dll
+C:\WebHookTransaction\WebHook.Assessment\WebHook.Assessment.Application\bin\Debug\net8.0\WebHook.Assessment.Domain.pdb
+C:\WebHookTransaction\WebHook.Assessment\WebHook.Assessment.Application\obj\Debug\net8.0\WebHook.Assessment.Application.csproj.AssemblyReference.cache
+C:\WebHookTransaction\WebHook.Assessment\WebHook.Assessment.Application\obj\Debug\net8.0\WebHook.Assessment.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\WebHookTransaction\WebHook.Assessment\WebHook.Assessment.Application\obj\Debug\net8.0\WebHook.Assessment.Application.AssemblyInfoInputs.cache
+C:\WebHookTransaction\WebHook.Assessment\WebHook.Assessment.Application\obj\Debug\net8.0\WebHook.Assessment.Application.AssemblyInfo.cs
+C:\WebHookTransaction\WebHook.Assessment\WebHook.Assessment.Application\obj\Debug\net8.0\WebHook.Assessment.Application.csproj.CoreCompileInputs.cache
+C:\WebHookTransaction\WebHook.Assessment\WebHook.Assessment.Application\obj\Debug\net8.0\WebHook..1DACC747.Up2Date
+C:\WebHookTransaction\WebHook.Assessment\WebHook.Assessment.Application\obj\Debug\net8.0\WebHook.Assessment.Application.dll
+C:\WebHookTransaction\WebHook.Assessment\WebHook.Assessment.Application\obj\Debug\net8.0\refint\WebHook.Assessment.Application.dll
+C:\WebHookTransaction\WebHook.Assessment\WebHook.Assessment.Application\obj\Debug\net8.0\WebHook.Assessment.Application.pdb
+C:\WebHookTransaction\WebHook.Assessment\WebHook.Assessment.Application\obj\Debug\net8.0\WebHook.Assessment.Application.genruntimeconfig.cache
+C:\WebHookTransaction\WebHook.Assessment\WebHook.Assessment.Application\obj\Debug\net8.0\ref\WebHook.Assessment.Application.dll

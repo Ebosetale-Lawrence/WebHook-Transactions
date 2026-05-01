@@ -1,0 +1,17 @@
+C:\WebHookTransaction\WebHook.Assessment\WebHook.Assessment.Persistence\bin\Debug\net8.0\WebHook.Assessment.Persistence.deps.json
+C:\WebHookTransaction\WebHook.Assessment\WebHook.Assessment.Persistence\bin\Debug\net8.0\WebHook.Assessment.Persistence.dll
+C:\WebHookTransaction\WebHook.Assessment\WebHook.Assessment.Persistence\bin\Debug\net8.0\WebHook.Assessment.Persistence.pdb
+C:\WebHookTransaction\WebHook.Assessment\WebHook.Assessment.Persistence\bin\Debug\net8.0\WebHook.Assessment.Application.dll
+C:\WebHookTransaction\WebHook.Assessment\WebHook.Assessment.Persistence\bin\Debug\net8.0\WebHook.Assessment.Domain.dll
+C:\WebHookTransaction\WebHook.Assessment\WebHook.Assessment.Persistence\bin\Debug\net8.0\WebHook.Assessment.Application.pdb
+C:\WebHookTransaction\WebHook.Assessment\WebHook.Assessment.Persistence\bin\Debug\net8.0\WebHook.Assessment.Domain.pdb
+C:\WebHookTransaction\WebHook.Assessment\WebHook.Assessment.Persistence\obj\Debug\net8.0\WebHook.Assessment.Persistence.csproj.AssemblyReference.cache
+C:\WebHookTransaction\WebHook.Assessment\WebHook.Assessment.Persistence\obj\Debug\net8.0\WebHook.Assessment.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\WebHookTransaction\WebHook.Assessment\WebHook.Assessment.Persistence\obj\Debug\net8.0\WebHook.Assessment.Persistence.AssemblyInfoInputs.cache
+C:\WebHookTransaction\WebHook.Assessment\WebHook.Assessment.Persistence\obj\Debug\net8.0\WebHook.Assessment.Persistence.AssemblyInfo.cs
+C:\WebHookTransaction\WebHook.Assessment\WebHook.Assessment.Persistence\obj\Debug\net8.0\WebHook.Assessment.Persistence.csproj.CoreCompileInputs.cache
+C:\WebHookTransaction\WebHook.Assessment\WebHook.Assessment.Persistence\obj\Debug\net8.0\WebHook..BB9A24C2.Up2Date
+C:\WebHookTransaction\WebHook.Assessment\WebHook.Assessment.Persistence\obj\Debug\net8.0\WebHook.Assessment.Persistence.dll
+C:\WebHookTransaction\WebHook.Assessment\WebHook.Assessment.Persistence\obj\Debug\net8.0\refint\WebHook.Assessment.Persistence.dll
+C:\WebHookTransaction\WebHook.Assessment\WebHook.Assessment.Persistence\obj\Debug\net8.0\WebHook.Assessment.Persistence.pdb
+C:\WebHookTransaction\WebHook.Assessment\WebHook.Assessment.Persistence\obj\Debug\net8.0\ref\WebHook.Assessment.Persistence.dll
